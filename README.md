@@ -9,9 +9,6 @@ https://igormarcondesdev.github.io/projetoModaOra/
 - HTML5  
 - CSS3  
 
-## 📸 Preview
-(Em breve)
-
 ## 📁 Estrutura do projeto
 - index.html  
 - CSS/  
